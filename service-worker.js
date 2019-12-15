@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DualNBack/precache-manifest.5d2277f754a86d56015c99ad9e179f31.js"
+  "/DualNBack/precache-manifest.434a2bba41425c8dd84fee5ca0776397.js"
 );
 
 self.addEventListener('message', (event) => {
